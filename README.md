@@ -7,10 +7,9 @@ A program that takes video input and converts it to ASCII Art (with Save As Imag
 - Width and height are equal to that of the window
 - Dictionary with colour presets, includes: White, Green, Cyan, Magenta, Red, and Yellow
 
+**Try Sketch here:** https://editor.p5js.org/reema-santos/full/SqpbSgBzL
+
 <img width="941" height="888" alt="image" src="https://github.com/user-attachments/assets/86da23cc-2691-4dcb-8f94-055106c8de37" />
 <img width="938" height="887" alt="image" src="https://github.com/user-attachments/assets/87f48879-afa6-4972-aba4-b70748dd90bc" />
 <img width="936" height="881" alt="image" src="https://github.com/user-attachments/assets/7a24d888-4609-48f3-a4a5-7243ac678fda" />
-![Uploading image.png…]()
-
-**Try Sketch here:** https://editor.p5js.org/reema-santos/full/SqpbSgBzL
-
+<img width="936" height="881" alt="image" src="https://github.com/user-attachments/assets/d7466d95-e05f-4e8c-bb6b-4cc20481d932" />
